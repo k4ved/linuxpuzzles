@@ -14,7 +14,7 @@ dateFormat = "January 2, 2006"
 
 [author]
   name = "Andy James"
-  image = "img/author.jpeg"
+  image = "img/andy.webp"
   headline = "I solve linux puzzles"
   bio = "A little bit about you"
    links = [
